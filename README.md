@@ -21,7 +21,7 @@ To run this application, follow the below steps:
 2. Install the Python packages(PIP) mentioned in the [requirement.txt](https://github.com/dany-premraj/interactiveAudioBible/blob/master/requirement.txt)
 3. Prepare the MySQL (create user, Password, database_creation, other basic steps)
 4. Load the data into the table ``verse``
-5. Run the main.py and ask for the verse and you'll see the response.
+5. Run the main.py and ask for the verse and you'll see the response. (current_version requires internet connection)
 
 
 For code Contributors/Supporters if you require any financial support for building this app, kindly let me know @ dany.premraj007@gmail.com
