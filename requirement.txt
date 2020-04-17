@@ -1,0 +1,5 @@
+sys
+speech_recognition
+gtts
+os
+pyglet
