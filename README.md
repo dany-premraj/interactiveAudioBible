@@ -4,11 +4,12 @@ There were many audio Bible on internet, many people have invested lots in recor
 
 The vision of this project is to complete the following:
 
- - [x] Make the app Visually challenged user-friendly (audio feedback)
+- [x] Make the app Visually challenged user-friendly (audio feedback)
 - [x] Enable voice command to access book/chapter/verse in Bible
 - [ ] To retrieve the information faster in span 3 seconds.
 - [ ] To build Android app,  or small radio type machine so that it reaches everyone.
 - [x] Provide this app free of cost for V-Challenged people.
+- [ ] To build similar app for various other languauges, Currently works only in Tamil.
 
 The Bible verses are taken from the Github user **godlytalias** from the Tamil repository [Here](https://github.com/godlytalias/Bible-Database/blob/master/Tamil/bible.sql). Thank you godlytailas!
 
